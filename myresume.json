@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Shubham Soliya",
+    "label": "Student",
+    "picture": "",
+    "email": "2019kucp1018@iiitkota.ac.in",
+    "phone": "+919977736794",
+    "website": "https://shubhamsoliya.netlify.app/",
+    "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development, and build my own indicator for stocks prediction.",
+    "location": {
+      "address": "Indore",
+      "postalCode": "452010",
+      "city": "Indore",
+      "countryCode": " India",
+      "region": "Madhya Pradesh"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@soliya_shubham",
+        "url": "https://twitter.com/soliya_shubham?s=08"
+      },
+      {
+        "network": "Github",
+        "username": "Shubham339",
+        "url": "https://github.com/Shubham339"
+      },
+      {
+        "network": "linkedin",
+        "username": "Shubham Soliya",
+        "url": "https://www.linkedin.com/in/shubham-soliya-b24a231b4"
+      },
+      {
+        "network": "Instagram",
+        "username": "shubham_soliya",
+        "url": "https://www.instagram.com/shubham__soliya/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "SpeedLabs",
+      "position": "Web Developer",
+      "website": "https://www.speedlabs.in/",
+      "startDate": "07-06-2021",
+      "endDate": "07-09-2021",
+      "summary": "Worked as a web developer.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Information Technology,Kota",
+      "area": "Engineering",
+      "studyType": "Bachelor (hons)",
+      "startDate": "2019-08-05",
+      "endDate": "2023-11-07",
+      "gpa": "7.96",
+      "courses": ["Computer Science & Engineering"]
+    }
+  ],
+
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "MySQL",
+        "Git",
+        "C/C++",
+        "MongoDB",
+        "Python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Playing",
+      "keywords": ["Volleyball", "Football"]
+    }
+  ],
+  "references": []
+}
